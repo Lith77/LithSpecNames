@@ -1,0 +1,10 @@
+## Interface: 40400
+## Title: |cFF8000FFLith|rSpecNames
+## Notes: An addon that lets you name your specs making it easier to keep track if your specs are similar. Mark it as PVE, Raid, PVP or anything you like.
+## Author: Lith
+## Version: 1.0.0
+## SavedVariables: LithSpecNames
+
+
+LithSpecNames.lua
+LithSpecNames.xml

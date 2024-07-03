@@ -1,0 +1,7 @@
+<Ui xmlns="http://www.blizzard.com/wow/ui/">
+    <Frame name="SpecNames_SettingsPanel" inherits="UIPanelDialogTemplate">
+        <Button name="$parentSaveButton" inherits="UIPanelButtonTemplate" text="Save" />
+        <Button name="$parentCloseButton" inherits="UIPanelButtonTemplate" text="Cancel" />
+        <EditBox name="$parentSpecNameInput" inherits="InputBoxTemplate" />
+    </Frame>
+</Ui>
